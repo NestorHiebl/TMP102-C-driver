@@ -1,4 +1,3 @@
-#include "main.h"
 #include "tmp102_driver.h"
 #include <stdint.h>
 
